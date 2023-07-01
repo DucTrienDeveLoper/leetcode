@@ -1,3 +1,8 @@
+// Yêu cầu lấy 2 phần tử trong mảng sao cho bằng target
+// Mỗi phần tử chỉ xuất hiện duy nhất 1 lần
+// Khi xuất hiện cặp thì lập tức lấy ngay và dừng chương trình lại 
+
+
 #include<iostream>
 #include<math.h>
 #include<conio.h>
