@@ -1,3 +1,6 @@
+// Yêu cầu gộp 2 mảng lại với nhau vào mảng cha
+// Phải sắp xếp lại giá trị của mảng cha
+
 #include<iostream>
 #include<conio.h>
 #include<math.h>
