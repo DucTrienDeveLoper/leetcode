@@ -49,8 +49,8 @@ int main() {
 	nhapmang(nums,4);
 	nhapmang(arr,4);
 	int merge[8];
-    mergearr(nums,4,arr,4,merge,8);
-    xuatmang(merge,8);
+        mergearr(nums,4,arr,4,merge,8);
+        xuatmang(merge,8);
 
 
 }
